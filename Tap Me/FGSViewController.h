@@ -7,7 +7,22 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 
-@interface FGSViewController : UIViewController
+@interface FGSViewController : UIViewController<UIAlertViewDelegate>{
+ 
+    IBOutlet UILabel *scoreLabel;
+    IBOutlet UILabel *timerLabel;
+    
+    NSInteger count;
+    NSInteger seconds;
+    NSTimer   *timer;
+    
+    AVAudioPlayer *buttonBeep;
+    AVAudioPlayer *secondBeep;
+    AVAudioPlayer *backgroundMusic;
+    
+}
 
+- (IBAction)buttonPressed;
 @end
