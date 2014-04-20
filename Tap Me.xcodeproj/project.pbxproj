@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B25E394818D942F9003C1BD6 /* bg_tile.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393718D942F9003C1BD6 /* bg_tile.png */; };
+		B25E394918D942F9003C1BD6 /* bg_tile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393818D942F9003C1BD6 /* bg_tile@2x.png */; };
+		B25E394A18D942F9003C1BD6 /* button_tap_deselected.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393918D942F9003C1BD6 /* button_tap_deselected.png */; };
+		B25E394B18D942F9003C1BD6 /* button_tap_deselected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393A18D942F9003C1BD6 /* button_tap_deselected@2x.png */; };
+		B25E394C18D942F9003C1BD6 /* button_tap_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393B18D942F9003C1BD6 /* button_tap_selected.png */; };
+		B25E394D18D942F9003C1BD6 /* button_tap_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393C18D942F9003C1BD6 /* button_tap_selected@2x.png */; };
+		B25E394E18D942F9003C1BD6 /* ButtonTap.wav in Resources */ = {isa = PBXBuildFile; fileRef = B25E393D18D942F9003C1BD6 /* ButtonTap.wav */; };
+		B25E394F18D942F9003C1BD6 /* checker_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393E18D942F9003C1BD6 /* checker_bottom.png */; };
+		B25E395018D942F9003C1BD6 /* checker_bottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E393F18D942F9003C1BD6 /* checker_bottom@2x.png */; };
+		B25E395118D942F9003C1BD6 /* checker_top.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E394018D942F9003C1BD6 /* checker_top.png */; };
+		B25E395218D942F9003C1BD6 /* checker_top@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E394118D942F9003C1BD6 /* checker_top@2x.png */; };
+		B25E395318D942F9003C1BD6 /* field_score.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E394218D942F9003C1BD6 /* field_score.png */; };
+		B25E395418D942F9003C1BD6 /* field_score@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E394318D942F9003C1BD6 /* field_score@2x.png */; };
+		B25E395518D942F9003C1BD6 /* field_time.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E394418D942F9003C1BD6 /* field_time.png */; };
+		B25E395618D942F9003C1BD6 /* field_time@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B25E394518D942F9003C1BD6 /* field_time@2x.png */; };
+		B25E395718D942F9003C1BD6 /* HallOfTheMountainKing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B25E394618D942F9003C1BD6 /* HallOfTheMountainKing.mp3 */; };
+		B25E395818D942F9003C1BD6 /* SecondBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = B25E394718D942F9003C1BD6 /* SecondBeep.wav */; };
+		B25E395A18D94AF6003C1BD6 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B25E395918D94AF6003C1BD6 /* AVFoundation.framework */; };
 		B2E3B3F418D61D5700D10963 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2E3B3F318D61D5700D10963 /* Foundation.framework */; };
 		B2E3B3F618D61D5700D10963 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2E3B3F518D61D5700D10963 /* CoreGraphics.framework */; };
 		B2E3B3F818D61D5700D10963 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2E3B3F718D61D5700D10963 /* UIKit.framework */; };
@@ -34,6 +52,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B25E393718D942F9003C1BD6 /* bg_tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_tile.png; sourceTree = "<group>"; };
+		B25E393818D942F9003C1BD6 /* bg_tile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_tile@2x.png"; sourceTree = "<group>"; };
+		B25E393918D942F9003C1BD6 /* button_tap_deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_tap_deselected.png; sourceTree = "<group>"; };
+		B25E393A18D942F9003C1BD6 /* button_tap_deselected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_tap_deselected@2x.png"; sourceTree = "<group>"; };
+		B25E393B18D942F9003C1BD6 /* button_tap_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_tap_selected.png; sourceTree = "<group>"; };
+		B25E393C18D942F9003C1BD6 /* button_tap_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_tap_selected@2x.png"; sourceTree = "<group>"; };
+		B25E393D18D942F9003C1BD6 /* ButtonTap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ButtonTap.wav; sourceTree = "<group>"; };
+		B25E393E18D942F9003C1BD6 /* checker_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checker_bottom.png; sourceTree = "<group>"; };
+		B25E393F18D942F9003C1BD6 /* checker_bottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checker_bottom@2x.png"; sourceTree = "<group>"; };
+		B25E394018D942F9003C1BD6 /* checker_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checker_top.png; sourceTree = "<group>"; };
+		B25E394118D942F9003C1BD6 /* checker_top@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checker_top@2x.png"; sourceTree = "<group>"; };
+		B25E394218D942F9003C1BD6 /* field_score.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = field_score.png; sourceTree = "<group>"; };
+		B25E394318D942F9003C1BD6 /* field_score@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "field_score@2x.png"; sourceTree = "<group>"; };
+		B25E394418D942F9003C1BD6 /* field_time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = field_time.png; sourceTree = "<group>"; };
+		B25E394518D942F9003C1BD6 /* field_time@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "field_time@2x.png"; sourceTree = "<group>"; };
+		B25E394618D942F9003C1BD6 /* HallOfTheMountainKing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = HallOfTheMountainKing.mp3; sourceTree = "<group>"; };
+		B25E394718D942F9003C1BD6 /* SecondBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SecondBeep.wav; sourceTree = "<group>"; };
+		B25E395918D94AF6003C1BD6 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		B2E3B3F018D61D5700D10963 /* Tap Me.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tap Me.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2E3B3F318D61D5700D10963 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B2E3B3F518D61D5700D10963 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -60,6 +96,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25E395A18D94AF6003C1BD6 /* AVFoundation.framework in Frameworks */,
 				B2E3B3F618D61D5700D10963 /* CoreGraphics.framework in Frameworks */,
 				B2E3B3F818D61D5700D10963 /* UIKit.framework in Frameworks */,
 				B2E3B3F418D61D5700D10963 /* Foundation.framework in Frameworks */,
@@ -101,6 +138,7 @@
 		B2E3B3F218D61D5700D10963 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B25E395918D94AF6003C1BD6 /* AVFoundation.framework */,
 				B2E3B3F318D61D5700D10963 /* Foundation.framework */,
 				B2E3B3F518D61D5700D10963 /* CoreGraphics.framework */,
 				B2E3B3F718D61D5700D10963 /* UIKit.framework */,
@@ -126,6 +164,23 @@
 		B2E3B3FA18D61D5700D10963 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B25E393718D942F9003C1BD6 /* bg_tile.png */,
+				B25E393818D942F9003C1BD6 /* bg_tile@2x.png */,
+				B25E393918D942F9003C1BD6 /* button_tap_deselected.png */,
+				B25E393A18D942F9003C1BD6 /* button_tap_deselected@2x.png */,
+				B25E393B18D942F9003C1BD6 /* button_tap_selected.png */,
+				B25E393C18D942F9003C1BD6 /* button_tap_selected@2x.png */,
+				B25E393D18D942F9003C1BD6 /* ButtonTap.wav */,
+				B25E393E18D942F9003C1BD6 /* checker_bottom.png */,
+				B25E393F18D942F9003C1BD6 /* checker_bottom@2x.png */,
+				B25E394018D942F9003C1BD6 /* checker_top.png */,
+				B25E394118D942F9003C1BD6 /* checker_top@2x.png */,
+				B25E394218D942F9003C1BD6 /* field_score.png */,
+				B25E394318D942F9003C1BD6 /* field_score@2x.png */,
+				B25E394418D942F9003C1BD6 /* field_time.png */,
+				B25E394518D942F9003C1BD6 /* field_time@2x.png */,
+				B25E394618D942F9003C1BD6 /* HallOfTheMountainKing.mp3 */,
+				B25E394718D942F9003C1BD6 /* SecondBeep.wav */,
 				B2E3B3FB18D61D5700D10963 /* Tap Me-Info.plist */,
 				B2E3B3FC18D61D5700D10963 /* InfoPlist.strings */,
 				B2E3B3FF18D61D5700D10963 /* main.m */,
@@ -197,7 +252,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = FGS;
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Fernando Garcia, Jr";
 				TargetAttributes = {
 					B2E3B41018D61D5700D10963 = {
@@ -229,9 +284,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B25E394818D942F9003C1BD6 /* bg_tile.png in Resources */,
 				B2E3B40C18D61D5700D10963 /* Images.xcassets in Resources */,
+				B25E395618D942F9003C1BD6 /* field_time@2x.png in Resources */,
+				B25E394C18D942F9003C1BD6 /* button_tap_selected.png in Resources */,
 				B2E3B3FE18D61D5700D10963 /* InfoPlist.strings in Resources */,
+				B25E394D18D942F9003C1BD6 /* button_tap_selected@2x.png in Resources */,
+				B25E395818D942F9003C1BD6 /* SecondBeep.wav in Resources */,
+				B25E394A18D942F9003C1BD6 /* button_tap_deselected.png in Resources */,
+				B25E395218D942F9003C1BD6 /* checker_top@2x.png in Resources */,
 				B2E3B40718D61D5700D10963 /* Main.storyboard in Resources */,
+				B25E394F18D942F9003C1BD6 /* checker_bottom.png in Resources */,
+				B25E395118D942F9003C1BD6 /* checker_top.png in Resources */,
+				B25E394B18D942F9003C1BD6 /* button_tap_deselected@2x.png in Resources */,
+				B25E395318D942F9003C1BD6 /* field_score.png in Resources */,
+				B25E395518D942F9003C1BD6 /* field_time.png in Resources */,
+				B25E394E18D942F9003C1BD6 /* ButtonTap.wav in Resources */,
+				B25E394918D942F9003C1BD6 /* bg_tile@2x.png in Resources */,
+				B25E395418D942F9003C1BD6 /* field_score@2x.png in Resources */,
+				B25E395018D942F9003C1BD6 /* checker_bottom@2x.png in Resources */,
+				B25E395718D942F9003C1BD6 /* HallOfTheMountainKing.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,7 +378,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -345,7 +416,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -403,7 +473,6 @@
 		B2E3B42618D61D5700D10963 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Tap Me.app/Tap Me";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -426,7 +495,6 @@
 		B2E3B42718D61D5700D10963 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Tap Me.app/Tap Me";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -461,6 +529,7 @@
 				B2E3B42418D61D5700D10963 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2E3B42518D61D5700D10963 /* Build configuration list for PBXNativeTarget "Tap MeTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +538,7 @@
 				B2E3B42718D61D5700D10963 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
